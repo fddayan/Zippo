@@ -1,0 +1,13 @@
+
+== Zippo
+
+zippo is a set of Rake tasks that are going to be able light your mapreduce pipes.
+
+zippo basically has a few methods that build Rake tasks that help you run you map reduce jobs in Java and eventually connect them together.
+
+I wrote this for a company and they did not want to use it because they did not want to install ruby in the servers. Fare enough.
+
+Because things I add now comes from things I believe are going to be useful and not from actual requirements, I would be happy to hear what you would like add it. 
+
+
+Its MIT license
