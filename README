@@ -7,7 +7,6 @@ zippo basically has a few methods that build Rake tasks that help you run you ma
 
 I wrote this for a company and they did not want to use it because they did not want to install ruby in the servers. Fare enough.
 
-Because things I add now comes from things I believe are going to be useful and not from actual requirements, I would be happy to hear what you would like add it. 
+So I do not get real feedback anymore. If you are going to use it and you want something in I can code it for you. 
 
-
-Its MIT license
+It's MIT license
